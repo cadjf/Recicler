@@ -59,7 +59,7 @@ try {
       <div class="row">
       <div class="col">
       <label for="pwd">Cep:</label>
-        <input type="text" class="form-control" id="cep"name="cep" value="<%=endereco.getCep()%>">
+        <input type="text" class="form-control" id="cep"name="cep">
       </div>
       <div class="col">
       <label for="pwd">Estado:</label>
